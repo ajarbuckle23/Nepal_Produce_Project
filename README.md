@@ -1,4 +1,4 @@
-# Nepal Produce Project — Analyzing Time-Series Data for Seasonality and Forecasting
+# Nepalese Produce Project — Analyzing Time-Series Data for Seasonality and Forecasting
 
 ## About the Dataset
 FROM KAGGLE
