@@ -1,8 +1,8 @@
 # Nepalese Produce Project — Analyzing Time-Series Data for Seasonality and Forecasting
 
 ## About the Dataset
-FROM KAGGLE: "This dataset contains official price information for major vegetables and fruits in Nepal from 2013 to 2021. The dataset includes daily price data for each vegetable and fruit, as well as the maximum, minimum, and average prices over the period. The prices are based on official figures and provide a valuable resource for anyone interested in analyzing the prices of agricultural commodities in Nepal."
-LINK: https://www.kaggle.com/datasets/ramkrijal/agriculture-vegetables-fruits-time-series-prices
+  FROM KAGGLE: "This dataset contains official price information for major vegetables and fruits in Nepal from 2013 to 2021. The dataset includes daily price data for each vegetable and fruit, as well as the maximum, minimum, and average prices over the period. The prices are based on official figures and provide a valuable resource for anyone interested in analyzing the prices of agricultural commodities in Nepal."
+  LINK: https://www.kaggle.com/datasets/ramkrijal/agriculture-vegetables-fruits-time-series-prices
 
 ## Data Analysis for Pricing Seasonality  
 Using SQL, I ran some queries to get a basic understanding of the dataset. I then wrote a SQL query to derive a table that identified each item's peak and low months and seasons, as well as a seasonal variability factor (SVF) that quantified how much each item's price tended to vary bewtween peak and low months. Using this table and the original dataset, I created a dashboard in Tableau that shows individual items' change in price over time, average price during various months, and more seasonal pricing information. You can find the dashboard here: https://public.tableau.com/app/profile/aj.arbuckle/viz/NepaleseProducePrices2/Dashboard1
