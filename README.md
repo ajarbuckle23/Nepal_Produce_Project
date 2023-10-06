@@ -3,6 +3,7 @@
 ## About the Dataset
 
   FROM KAGGLE: "This dataset contains official price information for major vegetables and fruits in Nepal from 2013 to 2021. The dataset includes daily price data for each vegetable and fruit, as well as the maximum, minimum, and average prices over the period. The prices are based on official figures and provide a valuable resource for anyone interested in analyzing the prices of agricultural commodities in Nepal."
+  
   LINK: https://www.kaggle.com/datasets/ramkrijal/agriculture-vegetables-fruits-time-series-prices
 
 ## Data Analysis for Pricing Seasonality  
